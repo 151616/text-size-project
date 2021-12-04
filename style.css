@@ -1,0 +1,36 @@
+#text_input{
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 400px;
+    background-color: lightskyblue;
+
+}
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    background-color: brown;
+    color: pink;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: purple;
+}
+body{
+    background-image: url('background.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#emoji{
+font-size: 50px;
+
+}
+canvas{
+    border: 5px darkblue ridge;
+    border-radius: 20px;
+}
